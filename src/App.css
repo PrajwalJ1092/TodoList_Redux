@@ -1,0 +1,14 @@
+@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-straight/css/uicons-regular-straight.css');
+@import "tailwindcss";
+
+
+
+
+
+body{
+    background-image: url("https://c8.alamy.com/comp/M4WB3G/to-do-list-seamless-pattern-background-business-flat-vector-illustration-M4WB3G.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
